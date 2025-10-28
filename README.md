@@ -1,7 +1,3 @@
-This is a README file for your C project demonstrating POSIX Threads (pthreads) for concurrent execution and timing.
-
------
-
 # Pthreads Concurrent Execution and Timing
 
 This project explores the fundamental concepts of multithreading in C using the **POSIX Threads (pthreads)** library. It consists of two stages (represented by the two code blocks provided): a basic demonstration of thread creation, and an enhanced version that includes execution time measurement and basic argument passing.
